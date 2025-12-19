@@ -3,6 +3,7 @@
 //
 #include <iostream>
 using namespace std;
+//测试一下能不能同步，现在
 
 int main() {
 	std::cout << "Hi, nice day!" << std::endl;
