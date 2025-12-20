@@ -6,3 +6,7 @@
 #define CPP_LEARNING_PROJECT_HEAD_H
 
 #endif //CPP_LEARNING_PROJECT_HEAD_H
+
+#include <iostream>
+#include <limits>
+void datetype();

@@ -7,4 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(cpp_learning_project
     src/main.cpp
+        src/head.h
+        src/DateType.cpp
 )
